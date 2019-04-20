@@ -1,0 +1,7 @@
+select
+col_1,
+col_2,
+col_3
+from
+ip_df_tbl
+where cond
