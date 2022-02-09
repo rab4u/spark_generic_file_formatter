@@ -10,7 +10,7 @@
         <scala.version>2.11.</scala.version>
         <scoverage.plugin.version>1.3.0</scoverage.plugin.version>
         <versionSpark>2.3.4</versionSpark>
-        <versionHadoop>2.8.2</versionHadoop>
+        <versionHadoop>2.10.1</versionHadoop>
     </properties>
 
     <dependencies>
